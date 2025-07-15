@@ -1,4 +1,4 @@
-import { Box, Flex, Spacer, Text } from "@chakra-ui/layout";
+import { Box, Flex, Spacer, Text } from "@chakra-ui/react";
 import { Avatar } from "@chakra-ui/avatar";
 import { FaBed, FaBath } from "react-icons/fa";
 import { BsGridFill } from "react-icons/bs";
